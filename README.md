@@ -1,7 +1,3 @@
-Here's a GitHub README for your Arduino distance calculator project with custom voice output:
-
----
-
 # 📏 Arduino Distance Calculator with Voice Output 🎙️
 
 Welcome to my latest Arduino project! I've created a distance calculator that adds a fun and functional twist by providing custom voice outputs triggered at specific distance ranges. This project is perfect for navigation, accessibility, or just adding a unique auditory element to your tech projects.
@@ -78,7 +74,3 @@ Here are some ideas for enhancing the project:
 ## 🙌 Acknowledgments
 
 Thanks to the amazing Arduino community for their resources and inspiration!
-
----
-
-Feel free to customize this README further to suit your project's needs!
